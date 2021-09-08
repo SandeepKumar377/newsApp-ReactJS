@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Ryan Gilbey",
+            "title": "Michael K Williams obituary | US television - The Guardian",
+            "description": "American actor best known for playing Omar Little in the TV crime series The Wire",
+            "url": "https://amp.theguardian.com/tv-and-radio/2021/sep/07/michael-k-williams-obituary",
+            "urlToImage": null,
+            "publishedAt": "2021-09-07T16:15:00Z",
+            "content": "US televisionAmerican actor best known for playing Omar Little in the TV crime series The Wire\r\nThe binge-watching revolution began in the late 1990s, when the combined advent of quality US televisio… [+6353 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tim Lister and Eliza Mackintosh, CNN",
+            "title": "Taliban announce hardline caretaker government for Afghanistan - CNN",
+            "description": "The Taliban have announced the formation of a hardline interim government for Afghanistan, with key roles being shared among veterans of the militant group and their allies in the US-sanctioned Haqqani Network.",
+            "url": "https://www.cnn.com/2021/09/07/asia/taliban-government-announcement-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210907120359-02-taliban-zabihullah-mujahid-0907-super-tease.jpg",
+            "publishedAt": "2021-09-07T16:12:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Event Announced: 'California Streaming' on September 14 With iPhone 13, Apple Watch Series 7... - MacRumors",
+            "description": "Apple today announced that it will be holding a special event on Tuesday, September 14 at 10:00 a.m. The event will take place at the Steve Jobs...",
+            "url": "https://www.macrumors.com/2021/09/07/apple-september-14-event/",
+            "urlToImage": "https://images.macrumors.com/t/vJbmjPSEoqafWi9VxDaWk9YhQdk=/1600x/https://images.macrumors.com/article-new/2021/09/apple-event-september-14.jpg",
+            "publishedAt": "2021-09-07T16:03:52Z",
+            "content": "Apple today announced that it will be holding a special event on Tuesday, September 14 at 10:00 a.m. The event will take place at the Steve Jobs Theater on the Apple Park campus in Cupertino, Califor… [+3092 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Sells Off As Apple Hits New High; Four Top Growth Stocks To Buy And Watch - Investor's Business Daily",
+            "description": "The Dow Jones Industrial Average sold off 300 points Tuesday, as Apple stock hit an all-time high in today's stock market.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-drops-as-apple-stock-hits-new-high/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2021/04/stock-Apple-iphone12purple-company.jpg",
+            "publishedAt": "2021-09-07T15:46:00Z",
+            "content": "The Dow Jones Industrial Average briefly sold off 300 points Tuesday, as Apple stock hit a new high. Tesla stock raced higher in midday trade, while DocuSign, Palantir, Semrush and Shopify are stocks… [+5040 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Jordan Williams",
+            "title": "Texas lieutenant governor knocks Portland as 'dumpster fire' over planned boycott | TheHill - The Hill",
+            "description": "Texas Lieutenant Governor Dan Patrick (R) on Monday slammed Portland,...",
+            "url": "https://thehill.com/homenews/state-watch/571070-texas-lieutenant-governor-knocks-portland-as-dumpster-fire-over-planned",
+            "urlToImage": "https://thehill.com/sites/default/files/article_images/patrickdan03082017getty.jpg",
+            "publishedAt": "2021-09-07T15:20:35Z",
+            "content": "Texas Lieutenant Governor Dan Patrick (R) on Monday slammed Portland, Ore., as a dumpster fire over the citys planned boycott of Texas over a recently enacted abortion ban. \r\nThe Portland City Counci… [+2418 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The A.V. Club"
+            },
+            "author": "Gabrielle Sanchez",
+            "title": "Phoebe Waller-Bridge crushes dreams, exits Amazon's Mr. & Mrs. Smith series - The A.V. Club",
+            "description": "Waller-Bridge was set to star opposite Donald Glover, who serves as co-creator and executive producer",
+            "url": "https://www.avclub.com/phoebe-waller-bridge-crushes-dreams-exits-amazons-mr-1847628055",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/329235a87c5c02e58030db0a4b712287.jpg",
+            "publishedAt": "2021-09-07T15:04:00Z",
+            "content": "It was the power couple we never knew we needed, and one that was never meant to be: Donald Glovers Mr. Smith is in search of a new Mrs. Smith as Phoebe Waller-Bridge exits the highly anticipated Ama… [+1591 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoin Magazine"
+            },
+            "author": "Alex McShane",
+            "title": "Fast Food Giant McDonald’s Now Accepting Bitcoin in El Salvador - Bitcoin Magazine",
+            "description": "Fast food giant McDonald's began accepting Bitcoin payments in El Salvador on Tuesday, at the same time the nation become the first to adopt Bitcoin as legal tender.",
+            "url": "https://bitcoinmagazine.com/culture/fast-food-giant-mcdonalds-now-accepting-bitcoin-in-el-salvador",
+            "urlToImage": "https://bitcoinmagazine.com/.image/t_share/MTgzNzAxNDMzNzYwMDk3OTY4/blackout-hashtag-activism.png",
+            "publishedAt": "2021-09-07T14:55:10Z",
+            "content": "Fast food giant McDonald's began accepting Bitcoin payments in El Salvador on Tuesday, at the same time the nation became the first to adopt Bitcoin as legal tender.\r\nAlthough the law stipulates that… [+1499 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Chao Deng",
+            "title": "Chinese Authorities Drop Case Against Former Alibaba Manager Accused of Sexual Assault - The Wall Street Journal",
+            "description": "Fired executive is subjected to 15 days of detention for forcible indecency",
+            "url": "https://www.wsj.com/articles/chinese-authorities-drop-case-against-former-alibaba-manager-accused-of-sexual-assault-11631021619",
+            "urlToImage": "https://images.wsj.net/im-396891/social",
+            "publishedAt": "2021-09-07T14:53:00Z",
+            "content": "TAIPEIChinese authorities said the actions of a manager with e-commerce giant Alibaba Group Holding Ltd. accused of sexually assaulting a co-worker didnt rise to the level of a crime, dropping a case… [+475 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "John Hudson",
+            "title": "Blinken denies Taliban blocking Americans from leaving Afghanistan - The Washington Post",
+            "description": "The U.S. secretary of state said some passengers seeking evacuation lack valid travel documents.",
+            "url": "https://www.washingtonpost.com/world/blinken-denies-taliban-blocks-americans/2021/09/07/9dac6858-0fcf-11ec-bc8a-8d9a5b534194_story.html",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5FSU3QP2EI6ZPEKRWNFWU2BSQ.jpg&w=1440",
+            "publishedAt": "2021-09-07T14:43:49Z",
+            "content": "Its my understanding that the Taliban has not denied exit to anyone holding a valid document, but they have said those without valid documents, at this point, cant leave, Blinken said.\r\nStory continu… [+2857 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kayla Rivas",
+            "title": "Children 6 months and up should get flu shot, delay during severe COVID-19 illness: pediatrics group - Fox News",
+            "description": "Children aged 6 months and older should receive a flu vaccine this fall, the American Academy of Pediatrics advised Tuesday, however kids with moderate-to-severe COVID-19 should delay flu shots until they have recovered.",
+            "url": "https://www.foxnews.com/health/children-flu-shot-covid-19-pediatrics-group",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/istock_000075734267_full.jpg",
+            "publishedAt": "2021-09-07T14:41:39Z",
+            "content": "Children aged 6 months and older should receive a flu vaccine this fall, the American Academy of Pediatrics advised Tuesday, however kids with moderate-to-severe COVID-19 should delay flu shots until… [+1802 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Dr. Priscilla Hanudel",
+            "title": "COVID-19 infection after vaccination and what to do next - ABC News",
+            "description": "",
+            "url": "https://abcnews.go.com/Health/covid-19-infection-vaccination/story?id=79812472",
+            "urlToImage": "https://s.abcnews.com/images/Health/covid-us-01-gty-iwb-210903_1630680738268_hpMain_16x9_992.jpg",
+            "publishedAt": "2021-09-07T14:25:02Z",
+            "content": "Vaccines work to dramatically reduce the risk of developing COVID-19, but no vaccine is perfect. Now, with 174 million people already fully vaccinated, a small portion are experiencing a so-called \"b… [+3526 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kelly McCleary and Alta Spells, CNN",
+            "title": "Dixie Fire is blazing its way to becoming California's biggest ever - CNN",
+            "description": "The Dixie Fire in northern California is on its way to becoming the largest widfire in the state's history, officials say.",
+            "url": "https://www.cnn.com/2021/09/07/weather/us-western-wildfires-tuesday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210905230151-caldor-fire-progress-california-monday-super-tease.jpg",
+            "publishedAt": "2021-09-07T13:43:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Panetta",
+            "title": "Rep. Matt Gaetz says Trump 'wants to throw punches' in 2024: Politico - Business Insider",
+            "description": "The congressman hinted to Politico that Trump will wait to announce, saying \"a good rule\" is to be a candidate \"for as \nshort a time\" as possible.",
+            "url": "https://www.businessinsider.com/matt-gaetz-says-trump-wants-to-throw-punches-2024-politico-2021-9",
+            "urlToImage": "https://i.insider.com/60beab9693c6fa00195e59ce?width=1200&format=jpeg",
+            "publishedAt": "2021-09-07T13:40:07Z",
+            "content": "Rep. Matt Gaetz of Florida thinks former President Donald Trump will run for president again in 2024 because he \"wants to throw punches as a combatant, not a heckler from the stands,\" the GOP congres… [+2416 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tyler McCarthy",
+            "title": "Monica Lewinsky says Bill Clinton should want to apologize for infamous affair, says she's moved on regardless - Fox News",
+            "description": "Monica Lewinsky got candid about her feelings toward Bill Clinton ahead of the premiere of the dramatization of their affair in “Impeachment: American Crime Story.”",
+            "url": "https://www.foxnews.com/entertainment/monica-lewinsky-bill-clinton-apologize-affair-moved-on",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/Monica-Lewinsky.jpg",
+            "publishedAt": "2021-09-07T13:36:13Z",
+            "content": "Monica Lewinsky got candid about her feelings toward Bill Clinton ahead of the premiere of the dramatization of their affair in \"Impeachment: American Crime Story.\" \r\nThe former White House intern fo… [+2756 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "New Studies Find Evidence Of 'Superhuman' Immunity To COVID-19 In Some Individuals - NPR",
+            "description": "That's how one scientist describes the findings of a series of studies looking at the antibodies created by individuals who were infected by the virus and then had an mRNA vaccine.",
+            "url": "https://www.npr.org/sections/goatsandsoda/2021/09/07/1033677208/new-studies-find-evidence-of-superhuman-immunity-to-covid-19-in-some-individuals",
+            "urlToImage": "https://media.npr.org/assets/img/2021/09/02/gettyimages-1307403039-20_wide-40e51e239cd0c5ea9e84bc016457d8b2bf2d0bd2.jpg?s=1400",
+            "publishedAt": "2021-09-07T13:32:21Z",
+            "content": "An illustration of antibodies attacking a coronavirus particle.\r\nChristoph Burgstedt/Science Photo LIbrary /Getty Images\r\nSome scientists have called it \"superhuman immunity\" or \"bulletproof.\" But im… [+5933 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/valentina-palladino",
+            "title": "Apple's iPad Air drops to $500 at Amazon - Engadget",
+            "description": "Save $100 on Apple's iPad Air thanks to a sale at Amazon..",
+            "url": "https://www.engadget.com/apple-ipad-air-64gb-wifi-drops-to-500-all-color-options-on-sale-with-coupon-131523018.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-10/53aaa740-1301-11eb-b5fe-608fd08339b9",
+            "publishedAt": "2021-09-07T13:18:45Z",
+            "content": "While Apple's entry-level iPad is ideal for those with strict budgets, we consider the iPad Air to be the best tablet in the company's lineup for most people. Those on the fence about shelling out $8… [+2043 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Los Angeles Times"
+            },
+            "author": "Faith E. Pinho",
+            "title": "How churches became a center of California recall campaign - Los Angeles Times",
+            "description": "As candidates crisscross California ahead of the Sept. 14 recall election, faith communities have become a central place for them to proselytize voters.",
+            "url": "https://www.latimes.com/california/story/2021-09-07/churches-become-a-center-of-california-recall-campaign",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/9cd8cd9/2147483647/strip/true/crop/5460x2867+0+354/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc6%2Ff9%2Ffcc0ea7d4d04addee2abf3076c6b%2Fla-photos-1staff-83552-me-0905-churces-recall1-wjs.jpg",
+            "publishedAt": "2021-09-07T13:11:08Z",
+            "content": "ROCKLIN, Calif.  It started as a traditional Sunday service.\r\nThe worship rose and fell in emotional chorus. People shook hands with their neighbors in the pews. \r\nBut then, in lieu of a sermon, Dest… [+11519 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jared Greenspan",
+            "title": "Derek Jeter’s best Yankees moments — here is No. 1 - New York Post ",
+            "description": "As Derek Jeter stepped into the batter’s box in the bottom of the third inning on a Saturday in July 2011, the Yankees legend stood one hit away from history.",
+            "url": "https://nypost.com/2021/09/07/derek-jeters-best-yankees-moments-3000th-hit-on-wild-day/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/09/jeter1.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-09-07T13:02:00Z",
+            "content": "Derek Jeter will be inducted into the Hall of Fame on Sept. 8. The Post is counting down his 10 best moments leading into The Captains big day in Cooperstown.\r\nAs Derek Jeter stepped into the batters… [+1796 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Arshad R. Arshad R.",
+            "title": "Mystery fever in India identified as 2 separate pathogens as death toll tops 100 - CBS News",
+            "description": "More than 100 people have died, including 40 kids, in just a couple weeks, but at least now authorities know what they're battling.",
+            "url": "https://www.cbsnews.com/news/mystery-fever-india-identified-uttar-pradesh-deaths-dengue-scrub-typhus/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/09/07/1b47ada1-3219-487f-9888-ace80d3a60f4/thumbnail/1200x630/531dd19d3787b14275a9de735d996f74/india-fever-outbreak-uttar-pradesh.jpg",
+            "publishedAt": "2021-09-07T13:00:05Z",
+            "content": "New Delhi — India's health authorities have solved the mystery of an illness that has infected thousands and left more than 100 people dead in the northern state of Uttar Pradesh. The fever that conf… [+2918 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Buffalo Rumblings"
+            },
+            "author": "Dan Lavoie",
+            "title": "Pittsburgh Steelers, T.J. Watt at an impasse ahead of Buffalo Bills’ season opener - Buffalo Rumblings",
+            "description": "Pittsburgh’s best defensive player wants a new contract.",
+            "url": "https://www.buffalorumblings.com/2021/9/7/22660052/pittsburgh-steelers-t-j-watt-at-an-impasse-ahead-of-buffalo-bills-season-opener-news",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/r9vM5Crti3gSA99LtwWmhQj4Hlo=/0x0:4612x2594/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/69824814/usa_today_15312806.0.jpg",
+            "publishedAt": "2021-09-07T13:00:00Z",
+            "content": "The Week 1 opponent of the Buffalo Bills, the Pittsburgh Steelers, surged to an 11-0 start last season with help from a smothering defenseone that finished the year in the top five of most stat categ… [+1865 chars]"
+        }
+    ]
+}
