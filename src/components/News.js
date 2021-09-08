@@ -65,13 +65,13 @@ export class News extends Component {
     render() {
         return (
             <div className="container">
-                <h2 className="text-center bg-success m-2 p-2">Top Business News </h2>
+                <h2 className="text-center bg-success m-2 p-2">Top News </h2>
                 {this.state.loading && <Spinner/>}
                 <div className="row col-sm-12 my-3 d-flex">
                     { !this.state.loading && this.state.articles.map((element) => {
                         return <div className="col-sm-4" key={element.url}>
                             <NewsItems title={element.title} description={element.description ? element.description : ""}
-                                imgUrl={element.urlToImage} newsUrl={element.url} />
+                                imgUrl={element.urlToImage} newsUrl={element.url} author={element.author} date={element.publishedAt} source={element.source.name} />
                         </div>
                     })}
                 </div>
